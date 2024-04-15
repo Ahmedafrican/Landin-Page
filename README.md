@@ -20,5 +20,5 @@ The Health Insurance Eligibility Checker is a web application designed to help u
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://ahmedafrican.github.io/Landin-Page/) file for details.
 
